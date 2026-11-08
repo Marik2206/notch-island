@@ -1,23 +1,33 @@
 # Notch Island
 
-«Динамический остров» для MacBook с чёлкой. Сделано студентом для студентов.
+A Dynamic Island for MacBooks with a notch. Made by a student, for students. English and Russian.
 
-**[🌐 Сайт](https://marik2206.github.io/notch-island/)** · **[⬇️ Скачать последнюю версию](https://github.com/Marik2206/notch-island/releases/latest/download/NotchIsland.zip)**
+**[🌐 Website](https://marik2206.github.io/notch-island/en/)** · **[⬇️ Download the latest version](https://github.com/Marik2206/notch-island/releases/latest/download/NotchIsland.zip)** · [По-русски ↓](#по-русски)
 
-## Что умеет
+## Features
 
-- **Расписание пар**: лекции, практики и лабораторные, аудитория, чётные и нечётные недели, сколько осталось до пары
-- **Музыка**: Яндекс Музыка, Spotify, Apple Music и музыка из браузера, с обложкой и кнопками
-- **Учёба 25 + 5**: таймер с перерывами и фокус-режим, который закрывает YouTube, TikTok и VK
-- **Буфер обмена**: история копирования по ⌃⌥V
-- **Заметки, полочка для файлов, погода, календарь**
-- **Инструменты**: не засыпать, тёмная тема, скрытые файлы, корзина, порядок в «Загрузках», место на диске
-- **280 стикеров** у чёлки, свои картинки и GIF, 9 тёмных тем
+- **Class schedule**: lectures, seminars, practice and labs, room and teacher, odd/even weeks, time until the next class
+- **Music**: Spotify, Apple Music, Yandex Music and music in your browser, with artwork and controls
+- **Study 25 + 5**: a work/break timer plus Focus mode that closes YouTube, TikTok and Reddit tabs
+- **Clipboard history**: searchable, opens with ⌃⌥V
+- **Notes, file shelf, weather, calendar**
+- **Tools**: keep awake, dark mode, hidden files, empty Trash, Downloads auto-sort, disk space view
+- **280 stickers** beside the notch, your own images and GIFs, 9 dark themes
 
-## Установка
+## Install
 
-1. Скачайте `NotchIsland.zip` и откройте его.
-2. Перетащите **Notch Island** в папку «Программы».
-3. При первом запуске нажмите на программу правой кнопкой мыши, затем «Открыть». Если macOS не даёт открыть, зайдите в «Системные настройки», раздел «Конфиденциальность и безопасность», и нажмите «Всё равно открыть».
+1. Download `NotchIsland.zip` and open it.
+2. Drag **Notch Island** into Applications.
+3. First launch: right-click the app → Open. If macOS blocks it, go to System Settings → Privacy & Security and click "Open Anyway".
 
-Требования: macOS 14 Sonoma или новее, Apple Silicon или Intel.
+Requires macOS 14 Sonoma or later, Apple Silicon or Intel.
+
+---
+
+## По-русски
+
+«Динамический остров» для MacBook с чёлкой. **[Сайт](https://marik2206.github.io/notch-island/)** · **[Скачать](https://github.com/Marik2206/notch-island/releases/latest/download/NotchIsland.zip)**
+
+Расписание пар, Яндекс Музыка и Spotify, таймер «Учёба 25 + 5» с фокус-режимом, история буфера обмена (⌃⌥V), заметки, полочка для файлов, погода, быстрые инструменты, 280 стикеров и темы.
+
+Установка: распакуйте архив, перетащите Notch Island в «Программы», при первом запуске нажмите правой кнопкой → «Открыть». Нужен macOS 14 или новее.
