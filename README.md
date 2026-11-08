@@ -2,7 +2,7 @@
 
 «Динамический остров» для MacBook с чёлкой. Сделано студентом для студентов.
 
-**[⬇️ Скачать последнюю версию](https://github.com/Marik2206/notch-island/releases/latest/download/NotchIsland.zip)**
+**[🌐 Сайт](https://marik2206.github.io/notch-island/)** · **[⬇️ Скачать последнюю версию](https://github.com/Marik2206/notch-island/releases/latest/download/NotchIsland.zip)**
 
 ## Что умеет
 
